@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    background: #F6DCF6;
+    font-family: 'Lobster', cursive;
+    font-size: 72px;
+    color: #7D78D1;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.row {
+    position: relative;
+    height: 100vh;
+}
+
+.parallax {
+    position: absolute;
+}
+
+.petals {
+    top: 50%;
+    left: 50%;
+    margin: -313px 0 0 -720px;
+}
+
+.march8 {
+    top: 50%;
+    left: 50%;
+    margin: -380px 0 0 -265px;
+}
+
+.mishka {
+    top: 50%;
+    left: 50%;
+    margin: 20px 0 0 -246px;
+}
+
+.violet {
+    top: 50%;
+    left: 50%;
+    margin: -118px 0 0 -494px;
+}
+
+.ping {
+    top: 50%;
+    left: 50%;
+    margin: 152px 0 0 262px;
+}
+
+.diamond_violet {
+    top: 50%;
+    left: 50%;
+    margin: -350px 0 0 414px;
+}
+
+.diamond_ping {
+    top: 50%;
+    left: 50%;
+    margin: 226px 0 0 -362px;
+}
+
+.text {
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin: 320px 0 0 -256px;
+}
